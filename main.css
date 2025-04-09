@@ -1,0 +1,26 @@
+.blog{
+    height: 170px;
+    width: 300px;
+}
+body{
+    background-color: rgba(66, 103, 237, 0.159);
+}
+.input{
+    margin-left: 500px;
+}
+.btn{
+    
+    background-color: rgba(3, 44, 109, 0.497);
+    font-size: medium;
+    border: none;
+    margin-right: 30px;
+}
+.blog{
+    font-size: 20px;
+}
+.title{
+    font-size: 15px;
+}
+.name{
+    font-size: 15px;
+}
